@@ -1,7 +1,7 @@
 # SurgicAI D8：公开 pipeline 代码仓库发布
 
 日期：2026-08-13
-目标仓库：<https://github.com/18244241528jm-cpu/suturing-policy-sim2real>
+目标仓库：<https://github.com/jiaming-wen/suturing-policy-sim2real>
 公开提交：`b31319ed145e85f949fcca022d6ef18bf0cea420`
 
 ## 结果
